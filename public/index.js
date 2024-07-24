@@ -5,7 +5,7 @@ If you want to know how this game works, you can find a source code walkthrough 
 Follow me on twitter for more: https://twitter.com/HunorBorbely
 
 */
-<link rel="stylesheet" href="index.cs"></link>
+
 Math.minmax = (value, limit) => {
     return Math.max(Math.min(value, limit), -limit);
   };
